@@ -108,7 +108,6 @@
 </p>
 
 <hr>
-<br>
 
 <!-- <p>
   <img
@@ -116,33 +115,28 @@
     src="https://github-readme-stats.vercel.app/api?username=choprabhargav82&show_icons=true&locale=en"
     alt="githubStats"
   />
-</p> -->
-
+</p>
 <p>
   <img
-    align="center"
+    align="left"
     src="https://github-readme-stats.vercel.app/api/top-langs?username=choprabhargav82&show_icons=true&locale=en&layout=compact"
     alt="mostUsedLanguages"
   />
-</p>
-
-<br>
-
-<p>
-  <img
-    align="center"
-    src="https://github-readme-streak-stats.herokuapp.com/?user=choprabhargav82&"
-    alt="contributions"
-  />
-</p>
-
+</p> 
 <p align="left">
   <img
     src="https://komarev.com/ghpvc/?username=choprabhargav82&label=Profile%20views&color=ff0000&style=flat"
     alt="profileViews"
   />
-</p>
+</p> -->
 
+<br>
+
+[![mostUsedLanguages](https://github-readme-stats.vercel.app/api/top-langs/?username=choprabhargav82&show_icons=true&theme=midnight-purple&layout=compact)](https://github.com/choprabhargav82)
+
+[![githubStreak](https://github-readme-streak-stats.herokuapp.com?user=choprabhargav82&theme=tokyonight-duo&border_radius=25&card_width=500)](https://github.com/choprabhargav82)
+
+[![profileViews](https://komarev.com/ghpvc/?username=choprabhargav82&label=Profile%20views&color=ff0000&style=flat)](https://github.com/choprabhargav82)
 
 
 
