@@ -81,6 +81,7 @@
 <h2 align="left"><b>Contact me here.</b></h2>
 <p align="left">
   <a href="mailto:choprabhargav82@outlook.com">choprabhargav82@outlook.com</a>
+  <br>
 
   <a href="https://www.linkedin.com/in/choprabhargav82/" target="_blank">
   <img
@@ -91,6 +92,7 @@
       width="40"
   />
   </a>
+  <br>
 
   <a href="https://www.instagram.com/choprabhargav82/" target="_blank">
     <img
@@ -101,6 +103,7 @@
       width="40"
   />
   </a>
+  <br>
 </p>
 
 <hr>
