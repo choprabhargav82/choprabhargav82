@@ -81,7 +81,7 @@
 <h2 align="left"><b>Contact me here.</b></h2>
 <p align="left">
   <a href="mailto:choprabhargav82@outlook.com">choprabhargav82@outlook.com</a>
-  <br>
+  <br><br>
 
   <a href="https://www.linkedin.com/in/choprabhargav82/" target="_blank">
   <img
@@ -92,7 +92,7 @@
       width="40"
   />
   </a>
-  <br>
+  <br><br>
 
   <a href="https://www.instagram.com/choprabhargav82/" target="_blank">
     <img
@@ -103,7 +103,8 @@
       width="40"
   />
   </a>
-  <br>
+  <br><br>
+  
 </p>
 
 <hr>
@@ -118,13 +119,14 @@
 </p>
 
 <p>
-  &nbsp;
   <img
-    align="center"
+    align="right"
     src="https://github-readme-stats.vercel.app/api?username=choprabhargav82&show_icons=true&locale=en"
     alt="githubStats"
   />
 </p>
+
+<br>
 
 <p>
   <img
