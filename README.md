@@ -112,17 +112,17 @@
 
 <p>
   <img
-    align="left"
-    src="https://github-readme-stats.vercel.app/api/top-langs?username=choprabhargav82&show_icons=true&locale=en&layout=compact"
-    alt="mostUsedLanguages"
+    align="center"
+    src="https://github-readme-stats.vercel.app/api?username=choprabhargav82&show_icons=true&locale=en"
+    alt="githubStats"
   />
 </p>
 
 <p>
   <img
-    align="right"
-    src="https://github-readme-stats.vercel.app/api?username=choprabhargav82&show_icons=true&locale=en"
-    alt="githubStats"
+    align="center"
+    src="https://github-readme-stats.vercel.app/api/top-langs?username=choprabhargav82&show_icons=true&locale=en&layout=compact"
+    alt="mostUsedLanguages"
   />
 </p>
 
