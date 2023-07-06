@@ -8,6 +8,135 @@
 - Highly adaptable and able to work efficiently both independently and as part of a team.
 
 
+<h2 align="left"><b>Languages:</b></h2>
+<p align="left">
+  <a href="https://www.java.com">
+    <img
+      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg"
+      alt="java"
+      width="50"
+      height="50"
+    />
+  </a>
+  <a href="https://learn.microsoft.com/en-us/cpp/cpp/cpp-language-reference">
+    <img
+      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg"
+      alt="cpp"
+      width="50"
+      height="50"
+    />
+  </a>
+  <a href="https://learn.microsoft.com/en-us/cpp/c-language/c-language-reference">
+    <img
+      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg"
+      alt="c"
+      width="50"
+      height="50"
+    />
+  </a>
+  <a href="https://www.python.org">
+    <img
+      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg"
+      alt="python"
+      width="50"
+      height="50"
+    />
+  </a>
+  <a href="https://developer.mozilla.org/en-US/docs/Web/HTML">
+    <img
+      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg"
+      alt="html"
+      width="50"
+      height="50"
+    />
+  </a>
+  <a href="https://developer.mozilla.org/en-US/docs/Web/CSS">
+    <img
+      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg"
+      alt="css"
+      width="50"
+      height="50"
+    />
+  </a>
+  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript">
+    <img
+      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg"
+      alt="javascript"
+      width="50"
+      height="50"
+    />
+  </a>
+  <a href="https://www.mysql.com">
+    <img
+      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg"
+      alt="sql"
+      width="50"
+      height="50"
+    />
+  </a>
+
+  <br>
+</p>
+
+<h2 align="left"><b>Contact me here.</b></h2>
+<p align="left">
+  <a href="mailto:choprabhargav82@outlook.com">choprabhargav82@outlook.com</a>
+
+  <a href="https://www.linkedin.com/in/choprabhargav82/" target="_blank">
+  <img
+      align="center"
+      src="https://www.vectorlogo.zone/logos/linkedin/linkedin-icon.svg"
+      alt="choprabhargav82"
+      height="40"
+      width="40"
+  />
+  </a>
+
+  <a href="https://www.instagram.com/choprabhargav82/" target="_blank">
+    <img
+      align="center"
+      src="https://www.vectorlogo.zone/logos/instagram/instagram-icon.svg"
+      alt="choprabhargav82"
+      height="40"
+      width="40"
+  />
+  </a>
+</p>
+
+<hr>
+<br>
+
+<p>
+  <img
+    align="left"
+    src="https://github-readme-stats.vercel.app/api/top-langs?username=choprabhargav82&show_icons=true&locale=en&layout=compact"
+    alt="mostUsedLanguages"
+  />
+</p>
+
+<p>
+  &nbsp;
+  <img
+    align="center"
+    src="https://github-readme-stats.vercel.app/api?username=choprabhargav82&show_icons=true&locale=en"
+    alt="githubStats"
+  />
+</p>
+
+<p>
+  <img
+    align="center"
+    src="https://github-readme-streak-stats.herokuapp.com/?user=choprabhargav82&"
+    alt="contributions"
+  />
+</p>
+
+<p align="left">
+  <img
+    src="https://komarev.com/ghpvc/?username=choprabhargav82&label=Profile%20views&color=ff0000&style=flat"
+    alt="profileViews"
+  />
+</p>
 
 
 
