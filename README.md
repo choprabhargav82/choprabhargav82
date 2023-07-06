@@ -110,13 +110,13 @@
 <hr>
 <br>
 
-<p>
+<!-- <p>
   <img
     align="center"
     src="https://github-readme-stats.vercel.app/api?username=choprabhargav82&show_icons=true&locale=en"
     alt="githubStats"
   />
-</p>
+</p> -->
 
 <p>
   <img
