@@ -1,15 +1,26 @@
-### Hi there, I'm [Bhargav Chopra](https://choprabhargav82.github.io)  
+### Hi there, I'm [Bhargav Chopra.](https://choprabhargav82.github.io)  
+
+I am a CSE undergrad at Vellore Institute of Technology, Vellore.
 
 
-### About Me:
-- CSE undergrad at Vellore Institute of Technology, Vellore.
-- Experienced programmer and content writer with a passion for blending technical expertise and creative writing.
-- Skilled in coding and producing engaging articles.
-- Highly adaptable and able to work efficiently both independently and as part of a team.
+## About Me
+
+### Work Experience
+
+- Worked as a research intern at Indian Institute of Technology, Jammu.
+- Worked as a content writer intern at a VR based company called Vifr Tech.
+- Worked as a content writer intern at a gaming and tech based company called Future Gaming.
+- Held the position of Events Head for Technology and Gaming Club, VIT Vellore.
+
+### Certifications
+
+- [Microsoft Certified: Azure AI Fundamentals](https://www.credly.com/badges/b8b5b069-f10c-4b5d-abfd-f1d5119f4067/public_url)
+- [Cisco: Introduction to Cybersecurity](https://www.credly.com/badges/16c4c518-6025-4a07-8cd5-7b7477932391/public_url)
+- [Udemy: Data Structures and Algorithms](https://ude.my/UC-3f20dd5e-89d5-4cff-a6d1-70aeda738b6c)
 
 
-<h2 align="left"><b>Languages:</b></h2>
-<p align="left">
+## Languages
+
   <a href="https://www.java.com">
     <img
       src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg"
@@ -78,8 +89,8 @@
   <br>
 </p>
 
-<h2 align="left"><b>Contact me here.</b></h2>
-<p align="left">
+## Contact me here
+
   <a href="mailto:choprabhargav82@outlook.com">choprabhargav82@outlook.com</a>
   <br><br>
 
@@ -108,27 +119,6 @@
 </p>
 
 <hr>
-
-<!-- <p>
-  <img
-    align="center"
-    src="https://github-readme-stats.vercel.app/api?username=choprabhargav82&show_icons=true&locale=en"
-    alt="githubStats"
-  />
-</p>
-<p>
-  <img
-    align="left"
-    src="https://github-readme-stats.vercel.app/api/top-langs?username=choprabhargav82&show_icons=true&locale=en&layout=compact"
-    alt="mostUsedLanguages"
-  />
-</p> 
-<p align="left">
-  <img
-    src="https://komarev.com/ghpvc/?username=choprabhargav82&label=Profile%20views&color=ff0000&style=flat"
-    alt="profileViews"
-  />
-</p> -->
 
 <br>
 
